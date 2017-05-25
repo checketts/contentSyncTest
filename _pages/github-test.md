@@ -29,7 +29,7 @@ blog_grid_page_settings:
 blog_fw_page_settings:
   - 'a:6:{s:13:"hb_grid_style";s:7:"fitRows";s:19:"hb_background_image";s:0:"";s:16:"hb_query_orderby";s:4:"date";s:14:"hb_query_order";s:4:"DESC";s:19:"hb_pagination_style";s:0:"";s:15:"hb_grid_columns";s:1:"3";}'
 general_settings:
-  - 'a:6:{s:22:"hb_hide_featured_image";s:1:"0";s:14:"hb_breadcrumbs";s:7:"default";s:16:"hb_page_title_h1";s:0:"";s:16:"hb_page_subtitle";s:0:"";s:20:"hb_page_title_option";s:7:"default";s:23:"hb_title_settings_group";a:1:{i:0;a:9:{s:18:"hb_page_title_type";s:19:"hb-color-background";s:30:"hb_page_title_background_color";s:7:"#fafafa";s:30:"hb_page_title_background_image";s:0:"";s:39:"hb_page_title_background_image_parallax";s:1:"1";s:23:"hb_page_title_alignment";s:9:"alignleft";s:20:"hb_page_title_height";s:14:"normal-padding";s:19:"hb_page_title_color";s:9:"dark-text";s:23:"hb_page_title_animation";s:0:"";s:32:"hb_page_title_subtitle_animation";s:0:"";}}}'
+  - 'a:6:{s:22:"hb_hide_featured_image";s:1:"0";s:14:"hb_breadcrumbs";s:7:"default";s:16:"hb_page_title_h1";s:0:"";s:16:"hb_page_subtitle";s:0:"";s:20:"hb_page_title_option";s:7:"default";s:23:"hb_title_settings_group";a:1:{i:0;a:10:{s:18:"hb_page_title_type";s:19:"hb-color-background";s:30:"hb_page_title_background_color";s:7:"#fafafa";s:30:"hb_page_title_background_image";s:0:"";s:39:"hb_page_title_background_image_parallax";s:1:"1";s:23:"hb_page_title_alignment";s:9:"alignleft";s:19:"hb_page_title_style";s:0:"";s:20:"hb_page_title_height";s:14:"normal-padding";s:19:"hb_page_title_color";s:9:"dark-text";s:23:"hb_page_title_animation";s:0:"";s:32:"hb_page_title_subtitle_animation";s:0:"";}}}'
 layout_settings:
   - 'a:6:{s:22:"hb_page_layout_sidebar";s:7:"default";s:17:"hb_choose_sidebar";s:0:"";s:15:"hb_content_area";s:4:"show";s:17:"hb_footer_widgets";s:7:"default";s:21:"hb_pre_footer_callout";s:7:"default";s:17:"hb_header_widgets";s:7:"default";}'
 background_settings:
@@ -37,4 +37,4 @@ background_settings:
 misc_settings:
   - 'a:7:{s:23:"hb_boxed_stretched_page";s:7:"default";s:10:"hb_onepage";s:1:"0";s:15:"hb_onepage_also";s:1:"0";s:19:"hb_page_extra_class";s:0:"";s:21:"hb_disable_navigation";s:1:"0";s:23:"hb_special_header_style";s:1:"0";s:24:"hb_page_alternative_logo";s:0:"";}'
 ---
-# test 1
+***test 1***
