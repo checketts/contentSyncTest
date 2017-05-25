@@ -38,3 +38,5 @@ misc_settings:
   - 'a:7:{s:23:"hb_boxed_stretched_page";s:7:"default";s:10:"hb_onepage";s:1:"0";s:15:"hb_onepage_also";s:1:"0";s:19:"hb_page_extra_class";s:0:"";s:21:"hb_disable_navigation";s:1:"0";s:23:"hb_special_header_style";s:1:"0";s:24:"hb_page_alternative_logo";s:0:"";}'
 ---
 ***test 1***
+
+# Header
